@@ -16,11 +16,11 @@ const config = {
 
     discordHost: "canary.discord.com",
 
-    discordToken: "OTg3Mzg4MDI4NzM5ODEzNDc4.GhdLKw.SlYENiHxBOhHIanoZ_ALpI1snMhbKQXavMz-zg",
+    discordToken: "",
 
-    guildId: "1211740903085965432",
+    guildId: "",
 
-    channelId: "1215972739828154449",
+    channelId: "",
 
     gatewayUrl: "wss://gateway.discord.gg",
 
